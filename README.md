@@ -1,7 +1,7 @@
 # NYT-TestApp
 
-#Install npm dependencies by running
-#npm install
+Install npm dependencies by running the following command
+# npm install
 
-#Start the local server
-#npm start
+Start the local server
+# npm start
